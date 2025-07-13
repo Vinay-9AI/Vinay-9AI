@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Vinay
 
-<!--
-**Vinay-9AI/Vinay-9AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 3rd-Year B.Tech Student | Aspiring FANG Engineer  
+💡 Currently preparing for top tech interviews with a 6-month roadmap  
+📘 Focus: DSA | System Design | CS Fundamentals | Full Stack Projects  
+🚀 Goal: Crack interviews at Meta, Amazon, Google, Netflix in 2026  
+🔭 Projects I'm building: AI Space Tutor | CyberSentinel Lite  
+🧠 Currently solving 300+ Leetcode questions and building impactful open-source projects
 
-Here are some ideas to get you started:
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/kudekyala-vinay-9125242b8/) | [GitHub](https://github.com/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
